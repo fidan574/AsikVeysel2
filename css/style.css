@@ -1,0 +1,25 @@
+.green {
+    color:darkcyan
+}
+large-font{
+    font-size: 42px;
+}
+#navigation {
+    margin-top: 40px ;
+    margin-bottom: 60px;
+}
+p {
+    color: #444444;
+}
+
+h1 {
+    font-size: 42px;
+    color: indigo;
+}
+h1.green { color: cadetblue;
+
+}
+
+#first-heading {
+    color: red;
+}
